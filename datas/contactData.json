@@ -1,0 +1,14 @@
+{
+    "title": "Get In Touch",
+    "description": "We’d love to hear from you! Fill out the form below and our team will get back to you shortly.",
+    "form": {
+      "fields": [
+        { "label": "Full Name", "type": "text", "placeholder": "Enter your name" },
+        { "label": "Email", "type": "email", "placeholder": "Enter your email" },
+        { "label": "Message", "type": "textarea", "placeholder": "Enter your message" }
+      ],
+      "buttonText": "Submit"
+    }
+  }
+
+  

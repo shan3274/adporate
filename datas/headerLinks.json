@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Product",
+    "url": "/product"
+  },
+  {
+    "name": "Solutions",
+    "url": "/Solution"
+  },
+  {
+    "name": "Customers",
+    "url": "/Customer"
+  },
+  {
+    "name": "Company",
+    "url": "/Company"
+  },
+  {
+    "name": "Resources",
+    "url": "/Resource"
+  },
+  {
+    "name": "Pricing",
+    "url": "/Pricing"
+  }
+]

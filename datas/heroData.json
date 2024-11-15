@@ -1,0 +1,10 @@
+{
+  "title": "SELL",
+  "heading": "Opportunity Is Coming",
+  "description": "Orum is the AI-powered Live Conversation Platform to supercharge sales because when you’re working to hit quota, every call counts.",
+  "img": "/Image.png",
+  "buttons": [
+    { "name": "Request A Demo", "link": "#" },
+    { "name": "Get Started Free", "link": "#" }
+  ]
+}

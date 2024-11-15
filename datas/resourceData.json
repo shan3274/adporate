@@ -1,0 +1,181 @@
+{
+  "tile": "Our Resources",
+  "description": "Explore our comprehensive set of resources, tools, and team members dedicated to delivering excellence.",
+  "image": "https://images.unsplash.com/photo-1581094651181-35942459ef62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "resources": [
+    {
+      "title": "API Documentation",
+
+      "summary": "Comprehensive API documentation to help developers integrate seamlessly.",
+      "details": "Our API allows developers to easily interact with our services. The documentation covers authentication, usage, error handling, and examples.",
+      "sections": [
+        {
+          "title": "Authentication",
+          "content": "Learn how to authenticate requests to our API using OAuth2."
+        },
+        {
+          "title": "Endpoints",
+          "content": "Explore all the available endpoints for various actions such as creating resources, retrieving data, and more."
+        }
+      ]
+    },
+    {
+      "title": "Design Guidelines",
+      "summary": "Our design system ensures consistency and quality in the products we build.",
+      "details": "The design system includes typography, color palettes, button styles, and component guidelines that our design team uses.",
+      "sections": [
+        {
+          "title": "Color Palette",
+          "content": "A wide variety of color choices to match any theme and maintain consistency across our products."
+        },
+        {
+          "title": "Button Styles",
+          "content": "Standardized button sizes, colors, and hover effects to ensure a cohesive user experience."
+        }
+      ]
+    },
+    {
+      "title": "Development Best Practices",
+      "summary": "Guidelines and best practices to ensure clean and efficient code.",
+      "details": "This document covers coding standards, testing guidelines, and the framework preferences that we adhere to.",
+      "sections": [
+        {
+          "title": "Code Style",
+          "content": "Consistent code style across all projects for readability and maintainability."
+        },
+        {
+          "title": "Testing",
+          "content": "Best practices for writing unit tests, integration tests, and end-to-end tests."
+        }
+      ]
+    },
+    {
+      "title": "User Research Reports",
+      "summary": "Insights from our user research to guide product development.",
+      "details": "Our user research reports detail user feedback, usability studies, and market analysis to help us design products that meet user needs.",
+      "sections": [
+        {
+          "title": "User Interviews",
+          "content": "Summaries and insights from interviews with our target users."
+        },
+        {
+          "title": "Usability Testing",
+          "content": "Results and feedback from testing our products with real users."
+        }
+      ]
+    }
+  ],
+
+  "team": [
+    {
+      "name": "John Doe",
+      "position": "Lead Developer",
+      "bio": "John has over 10 years of experience in software development, specializing in building scalable applications."
+    },
+    {
+      "name": "Jane Smith",
+      "position": "UI/UX Designer",
+      "bio": "Jane specializes in creating user-friendly designs that balance aesthetics and functionality."
+    },
+    {
+      "name": "Chris Johnson",
+      "position": "Product Manager",
+      "bio": "Chris leads the product team, ensuring that our offerings align with customer needs and market trends."
+    },
+    {
+      "name": "Lisa White",
+      "position": "Marketing Lead",
+      "bio": "Lisa is responsible for developing strategies to grow our user base and create strong brand recognition."
+    },
+    {
+      "name": "Paul Green",
+      "position": "Lead Frontend Developer",
+      "bio": "Paul is an expert in frontend development and ensures the smooth user experience across all platforms."
+    },
+    {
+      "name": "Rachel Brown",
+      "position": "Backend Developer",
+      "bio": "Rachel has extensive experience in server-side development, focusing on high-performance and secure systems."
+    },
+    {
+      "name": "Mark Wilson",
+      "position": "QA Lead",
+      "bio": "Mark oversees the quality assurance team, ensuring that every product meets our high standards of quality."
+    },
+    {
+      "name": "Emily Davis",
+      "position": "Business Analyst",
+      "bio": "Emily works closely with stakeholders to define requirements and ensure alignment with business goals."
+    }
+  ],
+
+  "tools": [
+    {
+      "name": "Postman",
+      "description": "A popular tool for API testing and documentation. We use it to interact with and test our APIs."
+    },
+    {
+      "name": "Figma",
+      "description": "A collaborative interface design tool that allows us to create and share design prototypes with ease."
+    },
+    {
+      "name": "Docker",
+      "description": "Docker is a platform for developing, shipping, and running applications inside lightweight containers."
+    },
+    {
+      "name": "GitHub",
+      "description": "GitHub is our version control platform where we host our code and collaborate on development projects."
+    },
+    {
+      "name": "JIRA",
+      "description": "A tool used for project management, issue tracking, and agile sprint planning."
+    },
+    {
+      "name": "Slack",
+      "description": "A communication tool that keeps our team connected, facilitating quick discussions and file sharing."
+    },
+    {
+      "name": "Trello",
+      "description": "A visual collaboration tool used by our team to manage tasks and keep track of progress on various projects."
+    },
+    {
+      "name": "Zoom",
+      "description": "Zoom allows us to hold virtual meetings, ensuring seamless communication and collaboration."
+    }
+  ],
+
+  "technologies": [
+    {
+      "name": "React",
+      "description": "A JavaScript library for building user interfaces. We use it for creating fast and interactive UIs."
+    },
+    {
+      "name": "Node.js",
+      "description": "A JavaScript runtime built on Chrome's V8 engine, used for backend development and building scalable applications."
+    },
+    {
+      "name": "Express.js",
+      "description": "A web framework for Node.js, used to build fast and scalable server-side applications."
+    },
+    {
+      "name": "MongoDB",
+      "description": "A NoSQL database that we use for handling large volumes of unstructured data with flexibility."
+    },
+    {
+      "name": "AWS",
+      "description": "Amazon Web Services is our go-to platform for cloud computing, offering scalable cloud solutions."
+    },
+    {
+      "name": "GraphQL",
+      "description": "A data query language that enables more efficient and flexible data retrieval from APIs."
+    },
+    {
+      "name": "Docker",
+      "description": "We use Docker for containerization, which helps us to build, ship, and run applications in isolated environments."
+    },
+    {
+      "name": "Kubernetes",
+      "description": "Kubernetes is an open-source system for automating the deployment, scaling, and management of containerized applications."
+    }
+  ]
+}

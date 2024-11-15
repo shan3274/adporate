@@ -1,0 +1,72 @@
+{
+  "overview": {
+    "title": "Our Comprehensive Solutions",
+    "description": "Our agency provides innovative solutions tailored to meet the diverse needs of modern businesses, focusing on efficiency, scalability, and growth.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  "keyOfferings": [
+    {
+      "title": "Custom Web Development",
+      "description": "We build responsive, user-centric websites tailored to enhance your brand presence."
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Our mobile solutions provide seamless experiences across all devices, ensuring high user engagement."
+    },
+    {
+      "title": "Social Media Management",
+      "description": "We help brands establish a strong online presence and engage with their target audience effectively."
+    }
+  ],
+  "industriesServed": [
+    "Healthcare",
+    "Finance",
+    "Education",
+    "E-commerce",
+    "Real Estate"
+  ],
+  "successStories": [
+    {
+      "client": "Healthcare Inc.",
+      "testimonial": "Their team transformed our online presence, driving significant growth in user engagement."
+    },
+    {
+      "client": "Fintech Solutions",
+      "testimonial": "Exceptional service! The app they built has streamlined our customer experience tremendously."
+    },
+    {
+      "client": "Healthcare Inc.",
+      "testimonial": "Their team transformed our online presence, driving significant growth in user engagement."
+    },
+    {
+      "client": "Fintech Solutions",
+      "testimonial": "Exceptional service! The app they built has streamlined our customer experience tremendously."
+    },
+    {
+      "client": "Healthcare Inc.",
+      "testimonial": "Their team transformed our online presence, driving significant growth in user engagement."
+    },
+    {
+      "client": "Fintech Solutions",
+      "testimonial": "Exceptional service! The app they built has streamlined our customer experience tremendously."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What types of businesses do you work with?",
+      "answer": "We work with businesses of all sizes across various industries, including healthcare, finance, and education."
+    },
+    {
+      "question": "How do you ensure quality?",
+      "answer": "Our team follows a strict QA process, ensuring that every solution is tested for performance and usability."
+    },
+    {
+      "question": "What types of businesses do you work with?",
+      "answer": "We work with businesses of all sizes across various industries, including healthcare, finance, and education."
+    },
+    {
+      "question": "How do you ensure quality?",
+      "answer": "Our team follows a strict QA process, ensuring that every solution is tested for performance and usability."
+    }
+  ]
+}

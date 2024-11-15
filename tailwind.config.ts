@@ -13,6 +13,9 @@ export default {
         foreground: "var(--foreground)",
       },
     },
+    fontFamily: {
+      Geist: ["Geist", "sans-serif"],
+    },
   },
   plugins: [],
 } satisfies Config;

@@ -1,0 +1,49 @@
+{
+  "heroSection": {
+    "title": "What Our Clients Say",
+    "description": "Hear directly from our clients about their experience with our services."
+  },
+  "testimonials": [
+    {
+      "name": "Alice Johnson",
+      "role": "Project Manager",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "feedback": "This agency has exceeded all my expectations with their amazing support and innovative solutions."
+    },
+    {
+      "name": "Michael Smith",
+      "role": "Senior Developer",
+      "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+      "feedback": "A fantastic team with deep expertise. Their work helped streamline our processes significantly."
+    },
+    {
+      "name": "Lisa Wong",
+      "role": "Designer",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "feedback": "They delivered beyond what was promised, and their dedication to quality is unmatched!"
+    }
+  ],
+  "howItWorks": {
+    "title": "How It Works",
+    "description": "Our clients share their experiences and feedback on how we helped them achieve their goals. Here's how we collect these testimonials:",
+    "steps": [
+      {
+        "title": "Collection",
+        "description": "We ask our clients to share their feedback after completing a project."
+      },
+      {
+        "title": "Review",
+        "description": "We review the testimonials to ensure that they reflect our work accurately."
+      },
+      {
+        "title": "Publish",
+        "description": "Once approved, the testimonials are published to our website to inspire others."
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "Ready to Experience Our Services?",
+    "description": "Get in touch with us today to start working with a team that values quality and client satisfaction.",
+    "buttonText": "Contact Us"
+  }
+}
